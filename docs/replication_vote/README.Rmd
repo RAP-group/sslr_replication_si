@@ -90,7 +90,7 @@ n_candidates == vote %>% pull(article) %>% unique %>% length
 
 # Rank voting
 
-```{r, outcome}
+```{r, outcome, out.width="100%", fig.retina=2}
 # Score articles (1 = 1 point, 2 = 2 points, etc.), lower score is better
 vote_results <- vote %>% 
   group_by(article, short_title) %>% 

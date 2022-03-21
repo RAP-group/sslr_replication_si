@@ -151,4 +151,4 @@
         labs(y = "Article", x = "Vote score") + 
         ds4ling::ds4ling_bw_theme(base_size = 14)
 
-![](README_files/figure-markdown_strict/outcome-1.png)
+<img src="README_files/figure-markdown_strict/outcome-1.png" width="100%" />
