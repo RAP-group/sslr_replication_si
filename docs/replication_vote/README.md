@@ -149,6 +149,6 @@
         geom_text(size = 2.5, color = "white") + 
         scale_y_discrete(limits = rev) + 
         labs(y = "Article", x = "Vote score") + 
-        ds4ling::ds4ling_bw_theme(base_size = 14)
+        ds4ling::ds4ling_bw_theme(base_size = 12)
 
 <img src="README_files/figure-markdown_strict/outcome-1.png" width="100%" />

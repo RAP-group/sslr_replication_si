@@ -90,7 +90,7 @@ n_candidates == vote %>% pull(article) %>% unique %>% length
 
 # Rank voting
 
-```{r, outcome, out.width="100%", fig.retina=2}
+```{r, outcome, out.width="100%", fig.retina=2, fig.height=3}
 # Score articles (1 = 1 point, 2 = 2 points, etc.), lower score is better
 vote_results <- vote %>% 
   group_by(article, short_title) %>% 
@@ -114,6 +114,6 @@ vote_results %>%
     geom_text(size = 2.5, color = "white") + 
     scale_y_discrete(limits = rev) + 
     labs(y = "Article", x = "Vote score") + 
-    ds4ling::ds4ling_bw_theme(base_size = 14)
+    ds4ling::ds4ling_bw_theme(base_size = 12)
 
 ```
