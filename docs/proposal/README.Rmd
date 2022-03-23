@@ -1,0 +1,78 @@
+---
+title: "Title here"
+subtitle: "Subtitle if necessary"
+author: |
+  | Corresponding author: 
+  | Joseph V. Casillas
+  |
+  | Contributing authors: 
+  | Kyle Parrish, Juan José Garrido Pozú, Laura Fernández Arroyo, 
+  | Gabriela Constantin-Dureci, Jiawei Shao, Iván Andreu Rascón, 
+  | Isabelle Chang, Katherine Taveras, Melany Subina
+date: | 
+  | Rutgers University 
+  | Last update: `r Sys.Date()`
+classoption: 11pt
+csl: apa-6th-edition.csl
+bibliography: references.bib
+output: pdf_document
+---
+
+```{r, eval=F, echo=F}
+# Study to be replicated and justification. The study to be replicated should have had an impact on subsequent empirical and/or theoretical work in the field of SLA. A justification should be provided for why the study has been selected for replication.
+
+# Type of replication. The proposal should describe and motivate the approach to replication (exact, close, approximate, conceptual [Porte & McManus, 2019]). While all approaches to replication will be considered, preference will be given to close or approximate replication studies in which one or maximally two major variables have been modified.
+
+# Variable modification. The variable(s) selected for modification should be described and a rationale should be provided for why the variables were selected and how they will be modified.
+
+# Design and availability of materials. The design of the replication study should be described so that all major aspects of the methodology can be evaluated, including availability of the initial study’s materials.
+
+# Analysis. The proposal should describe how the data will be analyzed and to what extent the procedures for data preparation and analysis are similar/different from the initial study.
+
+# Other differences (if relevant). All differences with the initial study should be identified. In order to communicate similarities and differences between the initial study and the replication, authors are recommended to use Brandt et al.’s (2014) Replication Recipe as a guide (available from: https://osf.io/4jd46/).
+
+# Impact. Authors should make clear how the proposed replication has the potential to advance knowledge and understanding in the field of SLA.
+
+# library("trackdown")
+# library("here")
+
+# upload_file(here("docs", "proposal", "README.Rmd"))
+# update_file(here("docs", "proposal", "README.Rmd"))
+# download_file(here("docs", "proposal", "README.Rmd"))
+# render_file(here("docs", "proposal", "README.Rmd"))
+```
+
+# Study to be replicated and justification
+
+The study that we propose to replicate is XXX.
+
+# Type of replication
+
+We will complete a direct replication of the XXX study. 
+
+# Variable modification
+
+To the extent possible we will not modify any of the variables used in the original study, which include the following: 
+
+# Design and availability of materials
+
+The experimental design is rather modest and we are in contact with the original authors in order to obtain the original materials, which are not currently freely available. 
+The original study included XX participants. 
+Given the size of the effect encountered in the study, we plan to recruit approximately XX participants. 
+This number was derived from a rudimentary power analysis.  
+
+# Analysis
+
+One area in which our replication of XXX differs from the original study is in the analysis. 
+Specifically, the outcome variable of XXX was the number of correct responses from the X task. 
+The data were subsequently analyzed within a XXX ANOVA. 
+We will not follow this approach. 
+First, because an outcome variable that is a count is more appropriately modeled using poisson regression, and, second, because technological advances allow for more sophisticated analytic methods. 
+Instead, we will use multilevel, hierarchical models to take into account grouping variables which result from the study design. 
+Furthermore, we use Bayesian data analysis for all statistical inferences. 
+
+# Other differences
+
+# Impact
+
+# References

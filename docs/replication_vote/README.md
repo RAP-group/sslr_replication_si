@@ -1,6 +1,7 @@
 # Setup
 
     library("tidyverse")
+    library("glue")
 
 # Load data
 
@@ -148,7 +149,9 @@
         geom_point(size = 7, stroke = 0, aes(color = is_winner), show.legend = F) + 
         geom_text(size = 2.5, color = "white") + 
         scale_y_discrete(limits = rev) + 
-        labs(y = "Article", x = "Vote score") + 
+        labs(y = "Article", x = "Vote score", 
+          title = "Voting results", 
+          subtitle = glue("n = {length(unique(vote$voter))}")) + 
         ds4ling::ds4ling_bw_theme(base_size = 12)
 
 <img src="README_files/figure-markdown_strict/outcome-1.png" width="100%" />
