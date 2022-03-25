@@ -1,5 +1,5 @@
 ---
-title: "Title here"
+title: "Titile here"
 subtitle: "Subtitle if necessary"
 author: |
   | Corresponding author: 
@@ -12,7 +12,7 @@ author: |
 date: | 
   | Rutgers University 
   | Last update: `r Sys.Date()`
-classoption: 11pt
+classoption: 10pt
 csl: apa-6th-edition.csl
 bibliography: references.bib
 output: pdf_document
@@ -45,6 +45,9 @@ output: pdf_document
 # Study to be replicated and justification
 
 The study that we propose to replicate is XXX.
+
+That was a bad example. 
+
 
 # Type of replication
 
