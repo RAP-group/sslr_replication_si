@@ -1,15 +1,38 @@
+---
+title: "Lit review for SSLA replication special issue"
+subtitle: "Speech perception in noise"
+author: "RAP group"
+date: "Last update: `r Sys.Date()`"
+output: pdf_document
+classoption: 10pt
+csl: apa-6th-edition.csl
+bibliography: speech_in_noise.bib
+nocite: '@*'
+---
+
+# Question 
+
+- Why is it hard to hear an L2 in background noise?
+- Do early learners have more difficulty perceiving speech in noise than monolinguals?
+
+
 # Previous lit
 
-## Native vs. non-native w/ bg noise:
+## AoA
+
+- @mayo_1997
+- @meador_flege_mackay_2000
+- @rogers_etal_2006
+- @ezzantian_2010
+- @shi_2010 
+- @tabri_2011
+- @lee_2014
+
+## Native vs. non-native
 
 - Borghini and Hazan, 2018; 
-- Bradlow and Alexander, 2007;  
-- Scharen- borg et al., 2018a
-- Mayo et al., 1997;     <-
-- Meador et al., 2000;   <- these ones look at AoA
-- Rogers et al., 2006;   <-
-- Ezzatian et al., 2010; <-
-- shi 2010               <-
+- Bradlow and Alexander, 2007;
+- Scharenborg et al., 2018a
 
 ## Level of abstraction
 
@@ -19,12 +42,20 @@
 - Cooke et al., 2010; 
 - Garcia Lecumberri et al., 2006
 
-## Question 
 
-Why is it hard to hear an L2 in background noise?
-Do early learners have more difficulty perceiving speech in noise than monolinguals?
+\clearpage
 
 # NOTES
+
+## @mayo_1997
+
+- 
+
+
+
+
+
+
 
 ## Scharenborg (2019)
 
@@ -70,3 +101,4 @@ However, groups of simultaneous early bilinguals in these studies were often ver
 
 
 
+# References
