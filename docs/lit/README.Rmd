@@ -19,7 +19,7 @@ knit: (function(inputFile, encoding){
 
 **Speech in noise**  
 
-Less intense regions of the speech signal can be masked and rendered unintelligible by extraneous noise in the acoustic environment (Helfer & Wilbur, 1990). 
+Less intense regions of the speech signal can be masked and rendered unintelligible by extraneous noise in the acoustic environment [@helfer_1990]. 
 Thus, speech perception in noise is more difficult due to the decreased amount of acoustic and linguistic cues available to the listener. 
 Speech perception becomes more difficult as the signal to noise ratio decreases. 
 This is particularly true in one's non-native language, referred to in the literature as the 'native advantage'.
@@ -163,6 +163,15 @@ According to Scharenborg (2019), the native advantage results from 'imperfect kn
   - Heritage speakers ability to perceive speech in noise was similar to native speakers'
 
 ## @reetzke_2016
+
+- purpose: dearth of speech-in-noise evidence for bilingual children who learn two languages simultaneously
+- test: pink noise, two talker babble, SNR: 0 to -16 dB 4 step increments
+- participants: monolinguals, simultaneous bilinguals (<3)
+- n: 12, 12
+- languages: English, various L1
+- L2 proficiency: self-report questionnaire
+- findings: 
+  - when age of acquisition and socioeconomic status is similar between groups, monolingual and bilingual children exhibit comparable speech-in-noise performance across a range of conditions analogous to everyday listening environments
 
 - purpose: 
 - test: 

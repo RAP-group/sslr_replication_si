@@ -1,7 +1,7 @@
 Lit review for SSLA replication special issue
 ================
 RAP group
-Last update: 2022-03-26
+Last update: 2022-03-30
 
 # Big picture
 
@@ -9,7 +9,7 @@ Last update: 2022-03-26
 
 Less intense regions of the speech signal can be masked and rendered
 unintelligible by extraneous noise in the acoustic environment (Helfer &
-Wilbur, 1990). Thus, speech perception in noise is more difficult due to
+Wilber, 1990). Thus, speech perception in noise is more difficult due to
 the decreased amount of acoustic and linguistic cues available to the
 listener. Speech perception becomes more difficult as the signal to
 noise ratio decreases. This is particularly true in one’s non-native
@@ -197,6 +197,19 @@ bilinguals have imperfect knowledge.
 
 ## Reetzke et al. (2016)
 
+-   purpose: dearth of speech-in-noise evidence for bilingual children
+    who learn two languages simultaneously
+-   test: pink noise, two talker babble, SNR: 0 to -16 dB 4 step
+    increments
+-   participants: monolinguals, simultaneous bilinguals (\<3)
+-   n: 12, 12
+-   languages: English, various L1
+-   L2 proficiency: self-report questionnaire
+-   findings:
+    -   when age of acquisition and socioeconomic status is similar
+        between groups, monolingual and bilingual children exhibit
+        comparable speech-in-noise performance across a range of
+        conditions analogous to everyday listening environments
 -   purpose:
 -   test:
 -   participants:
@@ -284,6 +297,15 @@ release speech from masking? *Speech Communication*, *52*(11), 919–929.
 
 </div>
 
+<div id="ref-helfer_1990" class="csl-entry">
+
+Helfer, K. S., & Wilber, L. A. (1990). Hearing loss, aging, and speech
+perception in reverberation and noise. *Journal of Speech, Language, and
+Hearing Research*, *33*(1), 149–155.
+<https://doi.org/10.1044/jshr.3301.149>
+
+</div>
+
 <div id="ref-lee_2014" class="csl-entry">
 
 Lee, S.-Y. (2014). Age of acquisition (AoA) effect on speech perception
@@ -328,6 +350,15 @@ B. (2006). Effects of bilingualism, noise, and reverberation on speech
 perception by listeners with normal hearing. *Applied
 Psycholinguistics*, *27*(3), 465–485.
 <https://doi.org/10.1017/S014271640606036X>
+
+</div>
+
+<div id="ref-scharenborg2019listening" class="csl-entry">
+
+Scharenborg, O., & Os, M. van. (2019). Why listening in background noise
+is harder in a non-native language than in a native language: A review.
+*Speech Communication*, *108*, 53–64.
+<https://doi.org/10.1016/j.specom.2019.03.001>
 
 </div>
 

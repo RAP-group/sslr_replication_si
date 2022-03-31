@@ -13,8 +13,8 @@ date: |
   | Rutgers University 
   | Last update: `r Sys.Date()`
 classoption: 10pt
-csl: apa-6th-edition.csl
-bibliography: references.bib
+csl: "../lit/apa-6th-edition.csl"
+bibliography: "../lit/speech_in_noise.bib"
 output: pdf_document
 ---
 
@@ -42,29 +42,90 @@ output: pdf_document
 # render_file(here("docs", "proposal", "README.Rmd"))
 ```
 
+```{r, power, eval=F, echo=F}
+Bar0, 10.634920634920634
+Bar1, 11.428571428571429
+Bar2, 12.222222222222221
+Bar3, 14.603174603174601
+Bar4, 15.396825396825395
+Bar5, 16.230158730158728
+
+```
+
 # Study to be replicated and justification
 
-The study that we propose to replicate is XXX.
+Adverse listening conditions, such as a noisy room, can make understanding speech difficult. 
+This occurs because less intense regions of the speech signal can be masked and rendered unintelligible by extraneous noise in the acoustic environment [@helfer_1990]. 
+As a result, speech perception in noise is more difficult due to the decreased amount of acoustic and linguistic cues available to the listener and becomes increasingly more difficult as the signal to noise ratio decreases. 
+This is particularly true when listening in one's non-native language, and has been referred to in the literature as the 'native advantage'. 
+Over three decades of research on speech perception in adverse conditions has consistently shown that listening in background noise poses more difficulties for bilinguals than for monolinguals [See @scharenborg2019listening for an overview]. 
+Furthermore, some studies show that the ‘native advantage’ persists even when one is highly proficient in the L2 and learns it at an early age [See @mayo_1997; @meador_flege_mackay_2000; @rogers_etal_2006, among others] or simultaneously [@mayo_1997; @shi_2010].  
 
-That was a bad example. 
+Why exactly is it hard to hear an L2 in background noise?
+According to @scharenborg2019listening, the ‘native advantage’ results from 'imperfect knowledge' of the L2. 
+This explanation seems plausible for late learners, but cannot explain the apparent difficulties of early sequential and simultaneous bilinguals that are proficient in both of their languages. 
+A more recent study by @reetzke_2016 finds that simultaneous bilingual children exhibit the same difficulties perceiving speech in noise as age-matched monolingual peers. 
+Thus, contrary to initial findings, it seems that the ‘native advantage’ cited in the literature also includes individuals with multiple native languages. 
+
+What, then, can explain the simultaneous and early bilinguals’ difficulties from the early studies? 
+One possibility is that the early studies suffer from type-II error. 
+That is, that they have obtained false-positive results. 
+Type-II errors are common in studies with low power and studies with small sample sizes are virtually always underpowered. 
+The investigations in question include samples ranging from 3 to 18 participants per group. 
+This gives us reason to believe that the current state of the ‘native advantage’ has been left unresolved with regard to simultaneous and early bilingual adults. 
+Thus, the question we intend to address with our replication study is the following: Do simultaneous and early sequential bilingual adults have more difficulty perceiving speech in noise than monolinguals?
+We propose a multi-site replication of Effect of Simultaneous Bilingualism on Speech Intelligibility across Different Masker Types, Modalities, and Signal-to-Noise Ratios in School-Age Children by @reetzke_2016.
+As mentioned, this is one study in a long line of research related to bilingual speech perception in noise. 
+The general claim resulting from this research is that bilingual individuals, in comparison with monolinguals, have more difficulties with speech perception when the acoustic environment includes extraneous noise, i.e., almost all the time. 
+
 
 
 # Type of replication
 
-We will complete a direct replication of the XXX study. 
+We will complete a close replication of the @reetzke_2016 study, with several minor differences. 
+First and foremost, the theoretical/conceptual framework is the same. 
+Our research questions/hypotheses also parallel those of @reetzke_2016, with slight differences due to the population we are interested in (see below). 
+The research design is the same (see below), as are the procedures we will use for presenting stimuli and coding the listening task. 
+We will use the same stimuli, if possible (see below), or recreate them using similar equipment. 
+The participants’ profile is slightly different with regard to the @reetzke_2016 study. 
+Specifically, we are interested in adult bilinguals, both simultaneous and early sequential (see below). 
+We will also employ most of the same analytic strategies (i.e., logistic regression), though our statistical inferences will be derived under a Bayesian framework. 
+The primary differences from our study and that of @reetzke_2016 deal with the population of interest and the modality of the stimuli, which we describe in the following section. 
 
 # Variable modification
 
-To the extent possible we will not modify any of the variables used in the original study, which include the following: 
+As described in the previous section, we intend to conduct a close replication of @reetzke_2016.  
+With regard to variable modification, our study will differ from that of @reetzke_2016 in two ways. 
+First, we will recruit a participant sample of adult bilinguals, as opposed to children. 
+The rationale for expanding the participant pool to adults is straightforward. 
+We want to attempt to replicate the ‘native advantage’ attested in the literature with a comparable population (adults) and an adequate sample size. 
+Thus far, the only studies showing a monolingual advantage for speech perception in noise with simultaneous and early bilinguals have included small samples of adults. 
+Thus, we believe this decision more closely aligns our study with the previous investigations focused on bilinguals at or near the end state of their language development [e.g., @mayo_1997; @meador_flege_mackay_2000; @rogers_etal_2006, among others]. 
+In the same vein, we will extend the findings from @reetzke_2016 to include early sequential bilinguals. 
+In line with the previous research, we operationalize early bilinguals as individuals that have been exposed to their L2 at or before the age of 6. 
+Importantly, we will still include simultaneous bilinguals as part of our sample. 
+
+Second, we will omit one of the conditions used in @reetzke_2016, the audio-visual condition. 
+Previous research on speech perception in noise finds that listening when audio and visual information are both available results in higher accuracy than when only audio information is presented. 
+Our study is concerned with speech perception in noise in the most difficult listening conditions, thus we believe this condition would be redundant in our study. 
+
+In sum, our replication of @reetzke_2016 includes two subtle modifications. 
+Our “group” factor includes three levels rather than two (monolingual control, simultaneous bilinguals, early sequential bilinguals) and we do not include a “modality” factor (all stimuli will be audio only). 
 
 # Design and availability of materials
 
-The experimental design is rather modest and we are in contact with the original authors in order to obtain the original materials, which are not currently freely available. 
-The original study included XX participants. 
-Given the size of the effect encountered in the study, we plan to recruit approximately XX participants. 
-This number was derived from a rudimentary power analysis.  
+The original materials from @reetzke_2016 are not currently freely available. 
+We are in contact with the corresponding author in order to obtain the original materials. 
+At the time of writing this proposal, the corresponding author has informed us that they are looking for the sound files. 
+In the case that we are not able to obtain the original materials, we will recreate them using professional recording equipment. 
+The process of recreating the stimuli is well-documented in the manuscript and appears to be straightforward. 
+In the event that any difficulties do arise, the corresponding author of @reetzke_2016 has agreed to act as a consultant. 
+
+
 
 # Analysis
+
+## Statistical analyses
 
 One area in which our replication of XXX differs from the original study is in the analysis. 
 Specifically, the outcome variable of XXX was the number of correct responses from the X task. 
@@ -74,8 +135,25 @@ First, because an outcome variable that is a count is more appropriately modeled
 Instead, we will use multilevel, hierarchical models to take into account grouping variables which result from the study design. 
 Furthermore, we use Bayesian data analysis for all statistical inferences. 
 
+## Sample size
+
+The @reetzke_2016 study included two groups of participants, monolinguals (n = 12) and simultaneous bilinguals (n = 12). 
+This sample size parallels those of the most closely related investigations [@mayo_1997; @meador_flege_mackay_2000; @rogers_etal_2006]. 
+In order to approximate the minimum sample size for our study, we considered the effect size from the @rogers_etal_2006 study. 
+This study was selected because the analytic strategy more closely resembles that of @reetzke_2016. 
+Given the size of the effect encountered in the study, we plan to recruit approximately XX participants. 
+This number was derived from a rudimentary power analysis.  
+
+## Multi-site replication
+
+
+
 # Other differences
 
 # Impact
+
+As mentioned above, the general claim resulting from the speech perception in noise research is that bilingual individuals, in comparison with monolinguals, have more difficulties with speech perception when the acoustic environment includes extraneous noise, which, in our estimation, is nearly all the time. 
+
+\clearpage
 
 # References
