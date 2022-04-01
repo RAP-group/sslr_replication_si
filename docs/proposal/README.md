@@ -1,4 +1,6 @@
-Title here
+Come again? A multi-site reexamination of the ‘native advantage’  
+in adverse listening conditions
+
 ================
 Corresponding author:  
 Joseph V. Casillas (<joseph.casillas@rutgers.edu>)  
@@ -21,13 +23,13 @@ decreases. This is particularly true when listening in one’s non-native
 language (referred to in the literature as the ‘native advantage’).
 Three decades of research on speech perception in adverse conditions
 consistently shows that listening in background noise poses more
-difficulties for bilinguals listening in their L2 than for monolinguals
-(See Scharenborg & Os, 2019 for an overview). Furthermore, some studies
-show that the ‘native advantage’ persists even when one is highly
-proficient in the L2 and learns it at an early age (See Mayo,
-Florentine, & Buus, 1997; Meador, Flege, & Mackay, 2000; Rogers, Lister,
-Febo, Besing, & Abrams, 2006, among others), including simultaneous
-bilinguals with two L1’s (Mayo et al., 1997; Shi, 2010).
+difficulties for bilinguals in their L2 than for monolinguals (See
+Scharenborg & Os, 2019 for an overview). Furthermore, some studies show
+that the ‘native advantage’ persists even when one is highly proficient
+in the L2 and learns it at an early age (See Mayo, Florentine, & Buus,
+1997; Meador, Flege, & Mackay, 2000; Rogers, Lister, Febo, Besing, &
+Abrams, 2006, among others), including simultaneous bilinguals with two
+L1’s (Mayo et al., 1997; Shi, 2010).
 
 According to Scharenborg & Os (2019), the ‘native advantage’ results
 from ‘imperfect knowledge’ of the L2. This explanation seems plausible
@@ -67,9 +69,9 @@ The participants’ profile is slightly different with regard to the
 Reetzke et al. (2016) study. Specifically, we are interested in adult
 bilinguals, both simultaneous and early sequential. We will also employ
 most of the same analytic strategies, though we will use a Bayesian
-framework. The primary differences from our study and that of Reetzke et
-al. (2016) deal with the population of interest and the modality of the
-stimuli, which we describe in the following section.
+framework. The primary differences between our study and that of Reetzke
+et al. (2016) deal with the population of interest and the modality of
+the stimuli, which we describe in the following section.
 
 # Variable modification
 
@@ -100,14 +102,14 @@ listening conditions, thus we believe this condition would be redundant
 in our study.
 
 In sum, our replication of Reetzke et al. (2016) includes two subtle
-modifications. Our “group” factor focuses on adults and includes three
+modifications. Our *group* factor focuses on adults and includes three
 levels rather than two (monolingual control, simultaneous bilingual,
-early sequential bilingual) and we do not include a “modality” factor
+early sequential bilingual) and we do not include a *modality* factor
 (only auditory stimuli).
 
 # Design and availability of materials
 
-The original materials from Reetzke et al. (2016) are not publically
+The original materials from Reetzke et al. (2016) are not publicly
 available. We are in contact with the corresponding author in order to
 obtain the original materials. At the time of writing this proposal, the
 corresponding author is looking for the sound files. In the case that we
@@ -155,7 +157,7 @@ aforementioned statistical analysis would include the pooled sample from
 all labs. Additionally, we will investigate the ‘native advantage’
 effect using Bayesian meta-analytic techniques. The corresponding author
 of the present proposal has previous experience managing multi-site
-collaborations (see <https://many-speech-analyses.github.io> for an
+collaborations (See <https://many-speech-analyses.github.io> for an
 example). At this time, three additional research teams have expressed
 interest in participating.
 

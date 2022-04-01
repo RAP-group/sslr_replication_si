@@ -1,5 +1,7 @@
 ---
-title: "Title here"
+title: |
+  | Come again? A multi-site reexamination of the 'native advantage' 
+  | in adverse listening conditions
 author: |
   | Corresponding author: 
   | Joseph V. Casillas (joseph.casillas@rutgers.edu)
@@ -133,7 +135,7 @@ Adverse listening conditions, such as a noisy room, can make understanding speec
 This occurs because less intense regions of the speech signal can be masked and rendered unintelligible by extraneous noise in the acoustic environment [@helfer_1990]. 
 As a result, speech perception in noise is more difficult due to decreased acoustic and linguistic cues available to the listener and becomes increasingly more difficult as the signal to noise ratio (SNR) decreases. 
 This is particularly true when listening in one's non-native language (referred to in the literature as the 'native advantage'). 
-Three decades of research on speech perception in adverse conditions consistently shows that listening in background noise poses more difficulties for bilinguals listening in their L2 than for monolinguals [See @scharenborg2019listening for an overview]. 
+Three decades of research on speech perception in adverse conditions consistently shows that listening in background noise poses more difficulties for bilinguals in their L2 than for monolinguals [See @scharenborg2019listening for an overview]. 
 Furthermore, some studies show that the ‘native advantage’ persists even when one is highly proficient in the L2 and learns it at an early age [See @mayo_1997; @meador_flege_mackay_2000; @rogers_etal_2006, among others], including simultaneous bilinguals with two L1’s [@mayo_1997; @shi_2010]. 
 
 According to @scharenborg2019listening, the ‘native advantage’ results from 'imperfect knowledge' of the L2. 
@@ -160,7 +162,7 @@ We will use the same stimuli, if possible, or recreate them using similar equipm
 The participants’ profile is slightly different with regard to the @reetzke_2016 study. 
 Specifically, we are interested in adult bilinguals, both simultaneous and early sequential.
 We will also employ most of the same analytic strategies, though we will use a Bayesian framework. 
-The primary differences from our study and that of @reetzke_2016 deal with the population of interest and the modality of the stimuli, which we describe in the following section. 
+The primary differences between our study and that of @reetzke_2016 deal with the population of interest and the modality of the stimuli, which we describe in the following section. 
 
 # Variable modification
 
@@ -178,11 +180,11 @@ Previous research on speech perception in noise finds that listening when audio 
 Our study is concerned with speech perception in noise in the most difficult listening conditions, thus we believe this condition would be redundant in our study. 
 
 In sum, our replication of @reetzke_2016 includes two subtle modifications. 
-Our “group” factor focuses on adults and includes three levels rather than two (monolingual control, simultaneous bilingual, early sequential bilingual) and we do not include a “modality” factor (only auditory stimuli). 
+Our *group* factor focuses on adults and includes three levels rather than two (monolingual control, simultaneous bilingual, early sequential bilingual) and we do not include a *modality* factor (only auditory stimuli). 
 
 # Design and availability of materials
 
-The original materials from @reetzke_2016 are not publically available. 
+The original materials from @reetzke_2016 are not publicly available. 
 We are in contact with the corresponding author in order to obtain the original materials. 
 At the time of writing this proposal, the corresponding author is looking for the sound files. 
 In the case that we are not able to obtain the original materials, we will recreate them using professional recording equipment. 
@@ -213,7 +215,7 @@ Our intention is that this replication be a large(r) scale, multi-site replicati
 Each team would collect data independently, following the same procedures detailed in a forthcoming pre-registration. 
 The aforementioned statistical analysis would include the pooled sample from all labs. 
 Additionally, we will investigate the ‘native advantage’ effect using Bayesian meta-analytic techniques.
-The corresponding author of the present proposal has previous experience managing multi-site collaborations (see https://many-speech-analyses.github.io for an example). 
+The corresponding author of the present proposal has previous experience managing multi-site collaborations (See https://many-speech-analyses.github.io for an example). 
 At this time, three additional research teams have expressed interest in participating. 
 
 # Impact
