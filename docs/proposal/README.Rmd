@@ -14,7 +14,12 @@ header-includes:
 indent: true
 csl: "../lit/apa-6th-edition.csl"
 bibliography: "../lit/speech_in_noise.bib"
-output: pdf_document
+output:
+  pdf_document: default
+  github_document: default
+knit: (function(inputFile, encoding){
+  rmarkdown::render(inputFile, encoding = encoding,
+  output_dir = ".", output_format = "all") })
 ---
 
 ```{r, eval=F, echo=F}
