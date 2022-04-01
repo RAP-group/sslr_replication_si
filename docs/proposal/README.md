@@ -66,7 +66,7 @@ the same stimuli, if possible, or recreate them using similar equipment.
 The participants’ profile is slightly different with regard to the
 Reetzke et al. (2016) study. Specifically, we are interested in adult
 bilinguals, both simultaneous and early sequential. We will also employ
-most of the same analytic strategies, though we use a Bayesian
+most of the same analytic strategies, though we will use a Bayesian
 framework. The primary differences from our study and that of Reetzke et
 al. (2016) deal with the population of interest and the modality of the
 stimuli, which we describe in the following section.
@@ -147,7 +147,7 @@ sample size of approximately 55 participants per group at 80% power.
 
 # Other differences
 
-Our intention is that this replication be a lage(r) scale, multi-site
+Our intention is that this replication be a large(r) scale, multi-site
 replication, including research teams from across the United States.
 Each team would collect data independently, following the same
 procedures detailed in a forthcoming pre-registration. The

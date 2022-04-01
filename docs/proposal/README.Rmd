@@ -159,7 +159,7 @@ The research design is the same, as are the procedures we will use for presentin
 We will use the same stimuli, if possible, or recreate them using similar equipment. 
 The participants’ profile is slightly different with regard to the @reetzke_2016 study. 
 Specifically, we are interested in adult bilinguals, both simultaneous and early sequential.
-We will also employ most of the same analytic strategies, though we use a Bayesian framework. 
+We will also employ most of the same analytic strategies, though we will use a Bayesian framework. 
 The primary differences from our study and that of @reetzke_2016 deal with the population of interest and the modality of the stimuli, which we describe in the following section. 
 
 # Variable modification
@@ -209,7 +209,7 @@ Given the wide CI, we used the lower-bound of this estimate to approximate a con
 
 # Other differences
 
-Our intention is that this replication be a lage(r) scale, multi-site replication, including research teams from across the United States. 
+Our intention is that this replication be a large(r) scale, multi-site replication, including research teams from across the United States. 
 Each team would collect data independently, following the same procedures detailed in a forthcoming pre-registration. 
 The aforementioned statistical analysis would include the pooled sample from all labs. 
 Additionally, we will investigate the ‘native advantage’ effect using Bayesian meta-analytic techniques.
