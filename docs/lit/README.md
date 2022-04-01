@@ -283,42 +283,6 @@ Why though? Hard to say because of…
 > proficiency levels (see also Kilman et al., 2014; Scharenborg et al.,
 > 2018a).
 
-# Power
-
-``` r
-library("esc")
-
-esc_mean_se(
-  study = "Rogers et al. (2006)", 
-  grp1m = 11.43, grp1se = 0.795, grp1n = 12, 
-  grp2m = 15.40, grp2se = 0.815, grp2n = 15, 
-  es.type = "d") #|> 
-```
-
-    ## 
-    ## Rogers et al. (2006) (n=27)
-    ## 
-    ##      Conversion: mean and se to effect size d
-    ##     Effect Size:  -1.3808
-    ##  Standard Error:   0.4305
-    ##        Variance:   0.1853
-    ##        Lower CI:  -2.2245
-    ##        Upper CI:  -0.5371
-    ##          Weight:   5.3964
-
-``` r
-  # unlist() |>
-  # as.list() |> 
-  # tibble::as_tibble()
-
-# Bar0, 10.63
-# Bar1, 11.43
-# Bar2, 12.22
-# Bar3, 14.60
-# Bar4, 15.40
-# Bar5, 16.23
-```
-
 # References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
